@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p> I'm Dheeraj, A Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/321/321238.png" width="13"/> India , <img src="https://cdn-icons.flaticon.com/png/512/5021/premium/5021245.png?token=exp=1645957918~hmac=ab4b5c1ebfb3e0470350d7f5bd83c202" width="13"/> <b>Kerala</b>. Currently working as a MERN Stack Developer In XL Technologies.</p>
+<p> I'm Dheeraj, A Self Taught Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/321/321238.png" width="13"/> India , <img src="https://cdn-icons.flaticon.com/png/512/5021/premium/5021245.png?token=exp=1645957918~hmac=ab4b5c1ebfb3e0470350d7f5bd83c202" width="13"/> <b>Kerala</b>. Currently working as a MERN Stack Developer In XL Technologies.</p>
 
 
 ### <h3>Things I code with</h3>
