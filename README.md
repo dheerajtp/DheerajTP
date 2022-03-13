@@ -26,11 +26,11 @@
 <p>
 Check out what I've been involved / currently involved in.
 
-- <a href="https://www.watch-later-two.vercel.app/">Watch Later</a> | _A web application to keep track of movies which you may love to watch later. Created using React JS, Firebase._
-- <a href="http://www.coding-contests.vercel.app/">Coding Contests</a> | _A Web Application For Students To Keep Track Of Coding Contests With Some Details And A Link To Original Website With Add Those Events To Google Calendar. Created Using React JS, Tailwind CSS, And Kontests API._
-- <a href="https://www.where-to-watch-xi.vercel.app/">Where To Watch</a> | _A Project to search for movies to know where they are streaming actually. It will try to provide the maximum number of results in a short time._
-- <a href="http://www.torrent-magnetic-search.vercel.app/">Torrent Magnetic Search</a> | _A website to search for Torrent magnetic links created using API , React JS and Context API._
-- <a href="https://www.inshorts-news-psi.vercel.app/">Inshorts News</a> | _A website to get news contents from various sources.Created with the help of Inshorts API by Sumanjay.._
+- <a href="https://watch-later-two.vercel.app/">Watch Later</a> | _A web application to keep track of movies which you may love to watch later. Created using React JS, Firebase._
+- <a href="http://coding-contests.vercel.app/">Coding Contests</a> | _A Web Application For Students To Keep Track Of Coding Contests With Some Details And A Link To Original Website With Add Those Events To Google Calendar. Created Using React JS, Tailwind CSS, And Kontests API._
+- <a href="https://where-to-watch-xi.vercel.app/">Where To Watch</a> | _A Project to search for movies to know where they are streaming actually. It will try to provide the maximum number of results in a short time._
+- <a href="http://torrent-magnetic-search.vercel.app/">Torrent Magnetic Search</a> | _A website to search for Torrent magnetic links created using API , React JS and Context API._
+- <a href="https://inshorts-news-psi.vercel.app/">Inshorts News</a> | _A website to get news contents from various sources.Created with the help of Inshorts API by Sumanjay.._
 </p>
 
 ### 🌱What I'm Learning
