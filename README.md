@@ -58,7 +58,7 @@ Here are some things on my todo list.
 </p>
 
 
- or give some ♥ on [mail](mailto:dheerajtp6338@gmail.com) .
+ or on [mail](mailto:dheerajtp6338@gmail.com) .
 
 
 
