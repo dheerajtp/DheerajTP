@@ -13,7 +13,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -21,28 +20,6 @@
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚧Current Projects
-
-<p>
-Check out what I've been involved / currently involved in.
-  
-
-- <a href="https://ambient-music.vercel.app//">Ambient Music</a> | _Ambient Music is an alternative of soundify.net which helps to escape from reality and minimize your problems after relaxing with sounds. Soundify contains 16 sounds which can be used to create endless combinations of sound in the browser. Ambient music is created from the open-source project Soundify._  
-- <a href="https://watch-later-two.vercel.app/">Watch Later</a> | _A web application to keep track of movies which you may love to watch later. Created using React JS, Firebase._
-- <a href="http://coding-contests.vercel.app/">Coding Contests</a> | _A Web Application For Students To Keep Track Of Coding Contests With Some Details And A Link To Original Website With Add Those Events To Google Calendar. Created Using React JS, Tailwind CSS, And Kontests API._
-- <a href="https://where-to-watch-xi.vercel.app/">Where To Watch</a> | _A Project to search for movies to know where they are streaming actually. It will try to provide the maximum number of results in a short time._
-- <a href="http://torrent-magnetic-search.vercel.app/">Torrent Magnetic Search</a> | _A website to search for Torrent magnetic links created using API , React JS and Context API._
-- <a href="https://inshorts-news-psi.vercel.app/">Inshorts News</a> | _A website to get news contents from various sources.Created with the help of Inshorts API by Sumanjay.._
-</p>
-
-### 🌱What I'm Learning
-
-Here are some things on my todo list.
-
-- _A Project In React - Redux Tool Kit_
-- _Next JS_ 🤖
-- _A Full Stack Project_ ⚙️
-- _Socket.io_
 
 <b>My GitHub Stats</b>
 
